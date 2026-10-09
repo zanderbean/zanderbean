@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @zanderbean
-- 👀 I’m interested in Computer Science, Software engineering/development 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python basics
+
