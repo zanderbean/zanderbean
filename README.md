@@ -2,4 +2,3 @@
 - 👀 I’m interested in Computer Science, Software engineering/development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python basics
-- 📫 How to reach me : Alexander.clark123@gmail.com
